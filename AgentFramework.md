@@ -1,6 +1,6 @@
 # Microsoft Agent Framework
 
-
+![Microsoft Agent Framework overview](images/AgentFramework.png)
 
 Agent framework brings together:
 - **Agents** - Individual agents that use LLMs to process inputs, call tools and MCP servers, and generate responses.
